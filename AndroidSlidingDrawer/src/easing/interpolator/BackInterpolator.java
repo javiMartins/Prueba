@@ -8,6 +8,8 @@ package easing.interpolator;
 //commit dev
 
 //jav commnetario dev
+
+//join 2
 import android.view.animation.Interpolator;
 import easing.interpolator.EasingType.Type;
 
